@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tag HTML Dasar</title>
+  </head>
+  <body>
+    <nav>
+      <a href="lab1_tag_dasar,html">Dasar HTML</a>
+      <a href="lab1_halaman2.2html">Halaman 2</a>
+      <a href="http://www.google.com">Halaman Web Eksternal Google</a>
+    </nav>
+    <hr />
+    <h1>Belajar Daasar HTML</h1>
+    <!--Ini paragraf pertama-->
+    <p align="justify">
+      Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah
+      <strong>Pemograman Web</strong> di Prodi <i>Teknik Informatika</i>
+      <u>Universitas Pelita Bangsa.</u>Pelajar yang kami dapat adalah membuat
+      tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.
+    </p>
+    <h2>Paragraf pada HTML</h2>
+    <!--ini paragraf kedua-->
+    <p align="justify">
+      Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang
+      saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan
+      menggunakan tag dasar HTML.
+    </p>
+    <h3>ini logo</h3>
+    <img
+      src="images/Logo-Universitas-Pelita-Bangsa.png"
+      width="200"
+      title="logo upb"
+    />
+  </body>
+</html>
